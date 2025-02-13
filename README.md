@@ -22,7 +22,10 @@ Welcome to my repository! This repository contains the solutions to four tasks a
 - Conversion between Celsius, Fahrenheit, and Kelvin.
 - Error handling for invalid inputs.
 
-![Temperature Conversion Program](path/to/screenshot1.png)
+![Temperature Conversion Program](![P1](https://github.com/user-attachments/assets/478cdacf-95cb-489e-a823-64e103e9ca22)
+![P2](https://github.com/user-attachments/assets/8970ca0b-4e9f-4855-b82b-a23eaeb5ecbf)
+![OP](https://github.com/user-attachments/assets/0f30ecc0-b97e-4478-9caa-92827ea7c416)
+)
 
 ---
 
@@ -35,7 +38,10 @@ Welcome to my repository! This repository contains the solutions to four tasks a
 - User input for guesses.
 - Feedback on whether the guess is too high, too low, or correct.
 
-![Number Guessing Game](path/to/screenshot2.png)
+![Number Guessing Game](![p1](https://github.com/user-attachments/assets/19a9ca37-3590-4e9a-a6a7-b719a867542d)
+![p2](https://github.com/user-attachments/assets/751e9103-470a-4c82-b40f-5cfe5c53cc06)
+![OP](https://github.com/user-attachments/assets/fcc9ce8d-403a-4c20-bee6-c570cad4a18c)
+)
 
 ---
 
