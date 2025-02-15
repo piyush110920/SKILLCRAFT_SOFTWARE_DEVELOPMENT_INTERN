@@ -54,7 +54,12 @@ Welcome to my repository! This repository contains the solutions to four tasks a
 - Solving algorithm that fills in the grid.
 - Display of the solved Sudoku puzzle.
 
-![Sudoku Solver](path/to/screenshot3.png)
+![Sudoku Solver](![IP01](https://github.com/user-attachments/assets/22732741-280d-4222-b8cd-cd5b3c068184)
+![IP02](https://github.com/user-attachments/assets/2ef34a82-ef78-4808-b3a3-cbaa88ceb670)
+![IP03](https://github.com/user-attachments/assets/b69fc1b5-3457-4903-b24a-a2e1179bf2f4)
+![OP01](https://github.com/user-attachments/assets/fda02baf-361e-4a68-8d29-b5861cef1934)
+![OP02](https://github.com/user-attachments/assets/086dd021-a90f-4e3e-9e73-55ef3d99072d)
+)
 
 ---
 
