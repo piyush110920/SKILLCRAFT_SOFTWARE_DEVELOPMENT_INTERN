@@ -72,7 +72,9 @@ Welcome to my repository! This repository contains the solutions to four tasks a
 - Parsing the HTML to extract specific data such as product names, prices, and ratings.
 - Storing the scraped data in a CSV file.
 
-![Web Scraping E-commerce Data](path/to/screenshot4.png)
+![Web Scraping E-commerce Data](![P01](https://github.com/user-attachments/assets/89a622fa-1281-4dc5-9d68-2bfaeacd2cc3)
+![P02](https://github.com/user-attachments/assets/06ba1430-e71b-4a0f-a716-f3c7468436e6)
+)
 
 ---
 
